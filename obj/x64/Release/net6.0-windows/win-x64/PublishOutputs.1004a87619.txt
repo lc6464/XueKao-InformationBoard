@@ -1,2 +1,0 @@
-D:\Develop\XueKaoInformationBoard\bin\x64\Release\net6.0-windows\publish\win-x64\XueKaoInformationBoard.pdb
-D:\Develop\XueKaoInformationBoard\bin\x64\Release\net6.0-windows\publish\win-x64\XueKaoInformationBoard.exe
